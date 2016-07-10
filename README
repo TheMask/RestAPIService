@@ -7,3 +7,4 @@ NAME varchar(100),
 AGE int,
 SALARY int
 }
+ 
