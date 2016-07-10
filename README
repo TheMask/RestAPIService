@@ -1,0 +1,9 @@
+Used Oracle Database, the following is the structure used for Table.
+
+create table USERS
+{
+USERID int PRIMARY KEY,
+NAME varchar(100),
+AGE int,
+SALARY int
+}
